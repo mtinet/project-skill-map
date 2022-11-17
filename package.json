@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://nomelancholy.github.io/pj-project-driven-study-mind-map",
+  "homepage": "https://mtinet.github.io/project-skill-map",
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server --hot",
